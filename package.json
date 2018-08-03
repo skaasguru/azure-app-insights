@@ -1,0 +1,17 @@
+{
+    "name": "hello-world",
+    "description": "Simple Hello World Node.js sample",
+    "version": "0.0.1",
+    "private": true,
+    "license": "MIT",
+    "author": "SkaaS",
+    "engines": {
+        "node": ">=6.9.1"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "applicationinsights": "^1.0.3"
+    }
+}
